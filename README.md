@@ -51,8 +51,8 @@ Python Developer with 8+ years of experience across corporate, EdTech, and entre
 ---
 
 ## 📫 Contact
-- Email: data2crunch@gmail.com  
-- LinkedIn: *(Coming soon)*  
+- Email: soumik2808@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/soumikofficial/ 
 - Projects: See pinned repositories below
 
 ---
